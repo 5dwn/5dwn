@@ -38,7 +38,7 @@
 <br/>
 
 <img width="172" height="262" alt="ThirdSide" src="https://raw.githubusercontent.com/5dwn/5dwn/main/assets/banner.png" align=right />
-<img width="650" height="111" alt="Social" src="https://github.com/lyorety/lyorety/blob/main/assets/social.png" />
+<img width="650" height="111" alt="Social" src="https://github.com/5dwn/5dwn/blob/main/assets/social.png" />
 
 <br/>
 <br/>
